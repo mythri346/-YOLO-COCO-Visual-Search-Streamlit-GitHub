@@ -149,7 +149,6 @@ The app will run fully on CPU.
 
 ### VS code Terminal
 
-<img width="1920" height="1020" alt="image" src="https://github.com/user-attachments/assets/571d3ec1-949b-4e71-bf54-25fd7f00be26" />
 
 <img width="1920" height="1020" alt="image" src="https://github.com/user-attachments/assets/140e361a-8f0a-4ee6-a84e-53f7bf6d406b" />
 
